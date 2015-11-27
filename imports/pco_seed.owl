@@ -17,5 +17,6 @@ AnnotationProperty: rdfs:label
 Datatype: xsd:string
 
 Class: <http://purl.obolibrary.org/obo/PCO_0000002> # ecological community
+Class: <http://purl.obolibrary.org/obo/PCO_0000000> # collection of organisms
 
 
