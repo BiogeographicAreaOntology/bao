@@ -6,7 +6,7 @@ Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 
 
-Ontology: <http://purl.obolibrary.org/obo/bao/imports/imports/ncbitaxon_seed.owl>
+Ontology: <http://purl.obolibrary.org/obo/bao/imports/ncbitaxon_seed.owl>
 
 
 
@@ -20,4 +20,10 @@ Class: <http://purl.obolibrary.org/obo/NCBITaxon_9606>    # Homo sapiens
 Class: <http://purl.obolibrary.org/obo/NCBITaxon_13468>   # Cupressus
 Class: <http://purl.obolibrary.org/obo/NCBITaxon_51953>   # African oil palm
 Class: <http://purl.obolibrary.org/obo/NCBITaxon_13100>   # Juniperas
+Class: <http://purl.obolibrary.org/obo/NCBITaxon_66636>   # Larrea tridentata, creosote bush
+Class: <http://purl.obolibrary.org/obo/NCBITaxon_>   # 
+Class: <http://purl.obolibrary.org/obo/NCBITaxon_>   # 
+Class: <http://purl.obolibrary.org/obo/NCBITaxon_>   # 
+Class: <http://purl.obolibrary.org/obo/NCBITaxon_>   # 
+# Class: <http://purl.obolibrary.org/obo/NCBITaxon_>   # 
 
