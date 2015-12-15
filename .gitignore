@@ -1,1 +1,3 @@
-src/mirror/*.owl
+src/ontology/mirror/*.owl
+src/foobar.owl
+src/foobar.obo
